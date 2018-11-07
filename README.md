@@ -11,6 +11,6 @@ Class:  PrimeNumberChecker
 
 **Usuage:**
 
-1. cd to /findPrimeNumberInSubString
+1. cd to /primeNumberChecker
 2. run mvn test 
 Then it will auto run all the unit test for the code exercise.
